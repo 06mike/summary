@@ -1,4 +1,4 @@
-package com.org.my.test;
+package com.my.test.jdk8;
 
 import java.util.HashMap;
 import java.util.Map;
